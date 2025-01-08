@@ -12,7 +12,7 @@ RUN go mod download
 COPY . /app/
 RUN make build/docker
 
-FROM alpine:3.16.2
+FROM alpine:3.21.2
 
 LABEL repository="https://github.com/aevea/release-notary"
 LABEL homepage="https://github.com/aevea/release-notary"
