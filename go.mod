@@ -11,7 +11,7 @@ require (
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/json-iterator/go v1.1.12
 	github.com/magefile/mage v1.15.0
-	github.com/slack-go/slack v0.11.3
+	github.com/slack-go/slack v0.15.0
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.18.2
 	github.com/stretchr/testify v1.9.0
